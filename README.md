@@ -24,4 +24,4 @@ An interactive Power BI report designed to analyze Superstore sales data from 20
 - "Superstore Sales Report.pdf": PDF version of the dashboard
   
 **Live Demo**
-[Link to dashboard or LinkedIn post]
+https://www.linkedin.com/posts/ashitosh-rokade_powerbi-dataanalytics-dashboard-activity-7384094512329076736-BJGL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEa4crgBTQkfoju2tl7GsPsxbftEiZiZxAE
